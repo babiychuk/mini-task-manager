@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/mini-task-manager/static/css/main.5c601199.chunk.css"
   },
   {
-    "revision": "02470617c5d3ab5d5762cc21226caa06",
+    "revision": "b26e6029c97f9f80a7634afed1ea73b0",
     "url": "/mini-task-manager/index.html"
   }
 ];
